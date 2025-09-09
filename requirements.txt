@@ -115,7 +115,6 @@ sympy==1.13.1
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
-tensorflow-metal==1.2.0
 tensorflow-probability==0.25.0
 termcolor==2.5.0
 tf_keras==2.18.0
