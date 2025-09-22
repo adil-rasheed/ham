@@ -1,8 +1,6 @@
 name: ham
 channels:
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
+  - defaults
 dependencies:
-  - python=3.12.7
-  - ipykernel
-prefix: /opt/anaconda3/envs/ham
+  - python
+prefix: C:\Users\adil\anaconda3\envs\ham
