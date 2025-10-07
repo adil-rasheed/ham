@@ -2,3 +2,5 @@ bigdata/
 ROM/VortexMerger/snapshots/
 DL/DiffusionModel/data/
 DL/NeuralNetwork/data
+rawdata.csv
+DDED/*.csv
