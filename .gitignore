@@ -5,3 +5,5 @@ DL/NeuralNetwork/data
 rawdata.csv
 DDED/*.csv
 data/
+*.pickle
+*.csv
